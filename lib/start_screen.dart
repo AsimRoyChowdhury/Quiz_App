@@ -26,6 +26,7 @@ class StartScreen extends StatelessWidget {
               fontSize: 30,
               fontWeight: FontWeight.bold,
             ),
+            textAlign: TextAlign.center,
           ),
           const SizedBox(
             height: 40,
